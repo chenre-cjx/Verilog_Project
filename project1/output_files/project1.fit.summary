@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Sep 29 15:13:37 2021
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : project1
+Top-level Entity Name : trans3to8
+Family : Cyclone IV E
+Device : EP4CE6E22A7
+Timing Models : Final
+Total logic elements : 7 / 6,272 ( < 1 % )
+    Total combinational functions : 7 / 6,272 ( < 1 % )
+    Dedicated logic registers : 0 / 6,272 ( 0 % )
+Total registers : 0
+Total pins : 12 / 92 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

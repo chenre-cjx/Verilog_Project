@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, D:/Quartus/Project/project1/trans3to8.bdf
+source_file = 1, D:/Quartus/Project/project1/trans3to8.vwf
+source_file = 1, D:/Quartus/Project/project1/db/project1.cbx.xml
+design_name = trans3to8
+instance = comp, \C0~output , C0~output, trans3to8, 1
+instance = comp, \C1~output , C1~output, trans3to8, 1
+instance = comp, \C2~output , C2~output, trans3to8, 1
+instance = comp, \C3~output , C3~output, trans3to8, 1
+instance = comp, \C4~output , C4~output, trans3to8, 1
+instance = comp, \C5~output , C5~output, trans3to8, 1
+instance = comp, \C6~output , C6~output, trans3to8, 1
+instance = comp, \C7~output , C7~output, trans3to8, 1
+instance = comp, \S~input , S~input, trans3to8, 1
+instance = comp, \a1~input , a1~input, trans3to8, 1
+instance = comp, \b2~input , b2~input, trans3to8, 1
+instance = comp, \c8~input , c8~input, trans3to8, 1
